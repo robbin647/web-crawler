@@ -12,8 +12,8 @@ We are to implement a crawler + parser (thereafter *crawler* for short) to achie
 <hr/>
 
 ## Crawler workflow explained
-- I explained the workflow in this [video] ("./help files/crawler_workflow.webm") 
-- A [photo] ("./help files/crawler_workflow.png") of the workflow 
+- I explained the workflow in this [video] (./help_files/crawler_workflow.webm) 
+- A [photo] (./help_files/crawler_workflow.png) of the workflow 
 
 <hr/>
 
