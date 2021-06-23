@@ -19,7 +19,7 @@ An example:
   | Place of publication | London |
   | Publisher | Harper |
   | Year | 2013 |
-  | Subject | 	Poirot, Hercule (Fictitious character) -- Fiction.Orient Express (Express train) -- Fiction.Private investigators -- England -- Fiction.Detective and mystery stories.|
+  | Subject | 	Poirot, Hercule (Fictitious character) -- Fiction;Orient Express (Express train) -- Fiction;Private investigators -- England -- Fiction;Detective and mystery stories|
   | Language | English |
   
  ## Miscellaneous
