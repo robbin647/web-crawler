@@ -7,13 +7,13 @@ Web crawler for Hong Kong Public Libraries website. Implemented with python.
 We are to implement a crawler + parser (thereafter *crawler* for short) to achieve the following functionalities:
 1. When we feed the crawler with a list of ***N*** URLs, the crawler is able to extract the desired data fields on that web page, and should output in comma-separated-format with all fields on one line.
 2. For any dummy data field on a web page, the crawler should detect it and mark it with a special value (e.g. ```0``` for numeric field or ```NULL``` for string field).
-3. The ***N*** rows in the output CSV file should be of exactly the same position as that in the list of ***N*** URLs.
+3. The ***N*** rows in the output CSV file should match exactly the ***N*** URLs in the list.
 
 <hr/>
 
 ## Crawler workflow explained
-- I explained the workflow in this [video] (./help_files/crawler_workflow.webm) 
-- A [photo] (./help_files/crawler_workflow.png) of the workflow 
+- I explained the workflow in this [video] (https://github.com/robbin647/help_files/crawler_workflow.webm) 
+- A [photo] (https://github.com/robbin647/help_files/crawler_workflow.png) of the workflow 
 
 <hr/>
 
